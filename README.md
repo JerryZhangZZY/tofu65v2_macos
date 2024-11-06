@@ -20,7 +20,7 @@ This firmware is modified from the original Tofu Jr v1 firmware. See [here](http
 2. Unplug the keyboard cable.
 3. Press and hold <kbd>ESC</kbd> while reconnecting the keyboard cable.
 4. Paste `tofu65v2_macos.uf2` into the pop-up drive.
-5. The keyboard will reboot and your are ready to go.
+5. The keyboard will reboot and you are ready to go.
 
 ## Appendix
 
