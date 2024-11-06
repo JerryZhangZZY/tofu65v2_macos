@@ -1,0 +1,3 @@
+DEFAULT_FOLDER = tofu65v2
+NKRO_ENABLE = yes
+VIA_ENABLE = yes
